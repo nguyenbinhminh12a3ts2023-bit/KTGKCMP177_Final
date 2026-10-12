@@ -1,0 +1,25 @@
+# Root .gitignore for KTGKCMP177_Final
+
+# .NET / C# build outputs
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/*.user
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
+
+# Flutter / Dart build outputs
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+
+# System / OS
+.DS_Store
+Thumbs.db
+Desktop.ini
