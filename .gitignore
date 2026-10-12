@@ -19,7 +19,9 @@
 **/.pub-cache/
 **/.pub/
 
-# System / OS
+# System / Logs
+**/Logs/
+**/App_Data/Logs/
 .DS_Store
 Thumbs.db
 Desktop.ini
